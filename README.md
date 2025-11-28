@@ -1,4 +1,4 @@
-## snake-water-gun-gae
+## Snake-water-gun-game
 This is a simple Python implementation of the classic Snake, Water, Gun game. The user selects one of the three options, and the computer randomly selects its own choice. The game then determines the winner based on predefined rules.
 
 # How the Game Works
